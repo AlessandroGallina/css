@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.first-div {
+background-color: #222F3F;
+width: 100%;
+height: 70px;
+
+}
+
+.logo-amazon {
+    height: 50px;
+    padding: 10px;
+    padding-left: 35px;
+}
+
+.second-div {
+    width: 100%;
+    height: 40px;
+    background-color: #364759;
+}
+
+h1 {
+    font-size: 23px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    float: left;
+    padding: 10px;
+    color: white;
+    list-style: none;
+}
+
+.main-div {
+    background-color: #E9EDEE;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-inline: 30px;
+}
+
+.third-class {
+    background-color: #F56600;
+    text-align: center;
+    color: white;
+}
+
+.p1 {
+    padding: 10px;
+}
+
+.top-image {
+    background-image: url(./images/bg-image.png);
+}
+
+.fourth-div {
+    background-image: url(./images/bg-image.png);
+    margin-top: 20px;
+    padding: 60px;
+    text-align: center;
+    color: white;
+}
+
+.white {background-color: white;
+margin-top: 20px;
+padding: 20px;
+}
+
+.photo-div {
+    width: 20px;
+    height: 30px;
+    padding: 30px;
+    
+}
+
+.img-cnt {
+    width: 180px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 30px;
+    
+}
+.display {
+    display: inline-block;
+}
+
+.p2 {
+    padding-left: 20px;
+}
+span {
+    color: #0A5D61;
+    padding: 10px;
+    
+}
+
+.VR-img {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.p3 {
+    text-align: center;
+}
+
+.a1 {
+    text-decoration: none;
+}
+
+.footer-div {
+    background-color: #364759;
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+    color: white;
+}
+
+.last-img {
+    width: 100px;
+    padding: 30px;
+   
+}
+
+.last-div {
+    background-color: #222F3F;
+    text-align: center;
+}
